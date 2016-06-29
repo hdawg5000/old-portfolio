@@ -341,7 +341,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 40px;
-    background-color: #2c3e50;
+    background-color: #595959;
 }
 
 footer .footer-col {
@@ -519,4 +519,8 @@ a:active,
 
 .contact-info p a {
     color: #2c3e50;
+}
+
+.portfolio-item a {
+    color: #00b8e6;
 }
