@@ -209,7 +209,7 @@ section.success a.active {
     display: block;
     position: relative;
     margin: 0 auto;
-    max-width: 460px;
+    max-width: 415px;
 }
 
 @media (max-width:400px) {
@@ -277,7 +277,7 @@ section.success a.active {
     }
 }
 
-@media (min-width:751px) and (max-width:1100px) {
+@media (min-width:751px) and (max-width:1000px) {
     #portfolio .portfolio-item .portfolio-link {
         display: block;
         position: relative;
@@ -287,7 +287,7 @@ section.success a.active {
     }
 }
 
-@media (min-width:751px) and (max-width:1100px) {
+@media (min-width:751px) and (max-width:1000px) {
     header footer .portfolio .success .contact {
         padding-left: 68px;
         padding-top: 94px;
@@ -295,7 +295,7 @@ section.success a.active {
     }
 }
 
-@media (min-width:751px) and (max-width:1100px) {
+@media (min-width:751px) and (max-width:1000px) {
     .about-me {
         padding: 10px 40px 0px 40px;
     }
