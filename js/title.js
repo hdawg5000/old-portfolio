@@ -1,5 +1,5 @@
 $(function () {
-    $(".name").hide().css("color", "white").delay(600).fadeIn(2500);
-    $(".delay").delay(2000).fadeIn(3000);
-    $(".intro-text li a").hide().css("color", "white").delay(3000).fadeIn(1000);
+    $(".name").hide().css("color", "white").delay(200).fadeIn(2000);
+    $(".delay").delay(1000).fadeIn(2000);
+    $(".intro-text li a").hide().css("color", "white").delay(2000).fadeIn(1000);
 });
