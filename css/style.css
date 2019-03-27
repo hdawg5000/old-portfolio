@@ -85,7 +85,7 @@ header {
     color: #fff;
     /*    background: #18bc9c;*/
     background: #00b8e6;
-    height: 100vh;
+    /* height: 100vh; */
 }
 
 header .container {
@@ -103,8 +103,12 @@ header .intro-text .name {
     font-family: Raleway, Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 2em;
     font-weight: 700;
-    color: #00b8e6;
+    color: #fff;
     padding-top: 40px;
+}
+
+.delay {
+    color: #fff;
 }
 
 header .intro-text .skills {
@@ -568,10 +572,6 @@ footer .footer-below {
     list-style-type: none;
     color: #00b8e6;
     padding-top: 55px;
-}
-
-.intro-text li a {
-    color: #00b8e6;
 }
 
 .links {
